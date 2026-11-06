@@ -1,0 +1,370 @@
+row,study_label,trait_published,units,comparison_type,sex,source_file,assay_column,cohort_A,cohort_B,held_fixed,excluded_animals,n_A,n_B
+2,8104,Plasma cholesterol,mg/dL,Diet,F,MMPC_Experiment_8104.csv,plasma total cholesterol (mg/dL),Sex=F | Mouse Diet=Dyets - 110098,Sex=F | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,19,12
+3,8104,Plasma triglycerides,mg/dL,Diet,F,MMPC_Experiment_8104.csv,plasma triglycerides (mg/dL),Sex=F | Mouse Diet=Dyets - 110098,Sex=F | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,19,12
+4,8104,Liver cholesterol,mg/g tissue,Diet,F,MMPC_Experiment_8104.csv,liver chol,Sex=F | Mouse Diet=Dyets - 110098,Sex=F | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,16,12
+5,8104,Liver triglycerides,mg/g tissue,Diet,F,MMPC_Experiment_8104.csv,liver tg,Sex=F | Mouse Diet=Dyets - 110098,Sex=F | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,16,12
+6,8104,Plasma cholesterol,mg/dL,Diet,M,MMPC_Experiment_8104.csv,plasma total cholesterol (mg/dL),Sex=M | Mouse Diet=Dyets - 110098,Sex=M | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,18,10
+7,8104,Plasma triglycerides,mg/dL,Diet,M,MMPC_Experiment_8104.csv,plasma triglycerides (mg/dL),Sex=M | Mouse Diet=Dyets - 110098,Sex=M | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,18,10
+8,8104,Liver cholesterol,mg/g tissue,Diet,M,MMPC_Experiment_8104.csv,liver chol,Sex=M | Mouse Diet=Dyets - 110098,Sex=M | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,17,10
+9,8104,Liver triglycerides,mg/g tissue,Diet,M,MMPC_Experiment_8104.csv,liver tg,Sex=M | Mouse Diet=Dyets - 110098,Sex=M | Mouse Diet=LabDiet 5001,Drug Administered=Vehicle,,17,10
+10,10236,Plasma cholesterol,mg/dL,Strain,M,MMPC_Experiment_10236.csv,cholesterol (mg/dL),Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,10,15
+11,10236,Plasma insulin,pg/mL,Strain,M,MMPC_Experiment_10236.csv,insulin plasma (pg/ml),Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,10,15
+12,10236,Plasma NEFA,Âµmol/L,Strain,M,MMPC_Experiment_10236.csv,non-esterified free fatty acids (ï¿½mol/l),Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,10,15
+13,10236,Plasma phospholipid,mg/dL,Strain,M,MMPC_Experiment_10236.csv,phospholipid (mg/dL),Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,10,15
+14,10236,Plasma triglycerides,mg/dL,Strain,M,MMPC_Experiment_10236.csv,triglycerides (mg/dL),Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,10,15
+15,10236,Plasma cholesterol,mg/dL,Diet,M,MMPC_Experiment_10236.csv,cholesterol (mg/dL),mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,13,15
+16,10236,Plasma insulin,pg/mL,Diet,M,MMPC_Experiment_10236.csv,insulin plasma (pg/ml),mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,13,15
+17,10236,Plasma NEFA,Âµmol/L,Diet,M,MMPC_Experiment_10236.csv,non-esterified free fatty acids (ï¿½mol/l),mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,13,15
+18,10236,Plasma phospholipid,mg/dL,Diet,M,MMPC_Experiment_10236.csv,phospholipid (mg/dL),mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,13,15
+19,10236,Plasma triglycerides,mg/dL,Diet,M,MMPC_Experiment_10236.csv,triglycerides (mg/dL),mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,13,15
+20,1513,Fat body mass,g,Strain,M,MMPC_Experiment_1513.csv,fat body mass (g),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+21,1513,Energy intake (24 hr),Kcal/day,Strain,M,MMPC_Experiment_1513.csv,energy intake (24 hr) (Kcal/day),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+22,1513,Body water free,g,Strain,M,MMPC_Experiment_1513.csv,body water free (g),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+23,1513,Heat (dark),Kcal/hr,Strain,M,MMPC_Experiment_1513.csv,heat (Dark Period) (Kcal/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+24,1513,Heat (light),Kcal/hr,Strain,M,MMPC_Experiment_1513.csv,heat (Light Period) (Kcal/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+25,1513,Lean body mass,g,Strain,M,MMPC_Experiment_1513.csv,lean body mass (g),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+26,1513,CO2 production (dark),CO2/kg/hr,Strain,M,MMPC_Experiment_1513.csv,carbon dioxide production Dark Period (CO2/kg/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+27,1513,CO2 production (light),CO2/kg/hr,Strain,M,MMPC_Experiment_1513.csv,carbon dioxide production Light Period (CO2/kg/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+28,1513,O2 consumption (dark),O2/kg/hr,Strain,M,MMPC_Experiment_1513.csv,oxygen consumption (Dark Period) (O2/kg/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+29,1513,O2 consumption (light),O2/kg/hr,Strain,M,MMPC_Experiment_1513.csv,oxygen consumption (Light Period) (O2/kg/hr),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+30,1513,Body mass,g,Strain,M,MMPC_Experiment_1513.csv,body mass (g),Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,13,10
+31,5645,Body fat,%,Strain,M,MMPC_Experiment_5645.csv,fat tissue % (%),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+32,5645,Activity 24h (x-ambulatory),#beam breaks/24hr,Strain,M,MMPC_Experiment_5645.csv,Activity 24h (x-ambulatory) (#beam breaks/24h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+33,5645,Activity 24h (total x-axis),#beam breaks/24hr,Strain,M,MMPC_Experiment_5645.csv,Activity 24h (total x-axis) (#beam breaks/24h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+34,5645,Activity 24h (total vertical z-axis),#beam breaks/24hr,Strain,M,MMPC_Experiment_5645.csv,Activity 24h (total vertical z-axis) (#beam breaks/24h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+35,5645,Bone mineral content,g,Strain,M,MMPC_Experiment_5645.csv,bone mineral content (g),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+36,5645,Bone mineral density,g/cm2,Strain,M,MMPC_Experiment_5645.csv,bone mineral density (g/cmŒ_),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+37,5645,Bone area,cm2,Strain,M,MMPC_Experiment_5645.csv,bone area (cmŒ_),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+38,5645,Energy intake (24 hr),Kcal/day,Strain,M,MMPC_Experiment_5645.csv,energy intake (24 hr) (Kcal/day),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+39,5645,Energy intake (dark),Kcal/12hr,Strain,M,MMPC_Experiment_5645.csv,energy intake (Dark Period) (Kcal/12h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+40,5645,Energy intake (light),Kcal/12hr,Strain,M,MMPC_Experiment_5645.csv,energy intake (Ligth Period) (Kcal/12h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+41,5645,Food intake (dark),g/12hr,Strain,M,MMPC_Experiment_5645.csv,food intake (Dark Period) (g/12h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+42,5645,Food intake (light),g/12hr,Strain,M,MMPC_Experiment_5645.csv,energy intake (Light Period) (g/12h),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+43,5645,Heat,Kcal/hr,Strain,M,MMPC_Experiment_5645.csv,heat (Kcal/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+44,5645,Heat (24 hr),Kcal/day,Strain,M,MMPC_Experiment_5645.csv,heat (24hr) (Kcal/day),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+45,5645,Heat (dark),Kcal/hr,Strain,M,MMPC_Experiment_5645.csv,heat (Dark Period) (Kcal/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+46,5645,Heat (light),Kcal/hr,Strain,M,MMPC_Experiment_5645.csv,heat (Light Period) (Kcal/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+47,5645,Lean body mass,g,Strain,M,MMPC_Experiment_5645.csv,lean body mass (g),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+48,5645,Respiratory exchange ratio (dark),-,Strain,M,MMPC_Experiment_5645.csv,respiratory exchange ratio (Dark Period),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+49,5645,Respiratory exchange ratio (light),-,Strain,M,MMPC_Experiment_5645.csv,respiratory exchange ratio (Light Period),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+50,5645,Respiratory exchange ratio,-,Strain,M,MMPC_Experiment_5645.csv,respiratory exchange ratio,Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+51,5645,Tissue area,cm2,Strain,M,MMPC_Experiment_5645.csv,tissue area (cmŒ_),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+52,5645,Total tissue mass,g,Strain,M,MMPC_Experiment_5645.csv,total tissue mass (g),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+53,5645,CO2 production,CO2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,carbon dioxide production (CO2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+54,5645,CO2 production (dark),CO2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,carbon dioxide production Dark Period (CO2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+55,5645,CO2 production (light),CO2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,carbon dioxide production Light Period (CO2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+56,5645,O2 consumption,O2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,oxygen consumption (O2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+57,5645,O2 consumption (dark),O2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,oxygen consumption (Dark Period) (O2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+58,5645,O2 consumption (light),O2/kg/hr,Strain,M,MMPC_Experiment_5645.csv,oxygen consumption (Light Period) (O2/kg/hr),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+59,5645,Body mass,g,Strain,M,MMPC_Experiment_5645.csv,body mass (g),Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,12,24
+60,7674,Blood glucose,mg/dL,Diet,M,MMPC_Experiment_7674.csv,glucose basal (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+61,7674,Hepatic glucose production basal,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,hepatic glucose production basal (mg/kg/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+62,7674,Glucose clamp average,mg/dL,Diet,M,MMPC_Experiment_7674.csv,glucose clamp average (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+63,7674,Hepatic glucose production clamp,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,Hepatic Glucose Production clamp (mg/kg/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+64,7674,Fat body mass,g,Diet,M,MMPC_Experiment_7674.csv,fat body mass (g),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+65,7674,Glucose infusion rate,?,Diet,M,MMPC_Experiment_7674.csv,glucose infusion rate,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+66,7674,Glucose uptake,nmol/min/g,Diet,M,MMPC_Experiment_7674.csv,glucose uptake (nmol/min/g),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,14,12
+67,7674,Lean body mass,g,Diet,M,MMPC_Experiment_7674.csv,lean body mass (g),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+68,7674,Body mass,g,Diet,M,MMPC_Experiment_7674.csv,body mass (g),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+69,7674,Glucose turnover whole body,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,glucose turnover whole body (mg/kg/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+70,7674,Glycogen/lipid synthesis whole body,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,glycogen/lipid synthesis whole body (mg/kg/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+71,7674,Glycolysis whole body,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,glycolysis whole body (mg/kg/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+72,7674,Glucose infusion rates,mg/kg/min,Diet,M,MMPC_Experiment_7674.csv,glucose infusion rate,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+73,7674,Glucose uptake brown fat,nmol/g/min,Diet,M,MMPC_Experiment_7674.csv,glucose uptake brown fat (nmole/g/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,12,12
+74,7674,Glucose uptake muscle,nmol/g/min,Diet,M,MMPC_Experiment_7674.csv,glucose uptake muscle (nmole/g/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,15,15
+75,7674,Glucose uptake white adipose,nmol/g/min,Diet,M,MMPC_Experiment_7674.csv,glucose uptake white adipose (nmole/g/min),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,14,14
+76,7691,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_7691.csv,glucose basal (mg/dL),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+77,7691,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_7691.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+78,7691,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_7691.csv,glucose clamp average (mg/dL),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+79,7691,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_7691.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+80,7691,Fat body mass,g,Strain,M,MMPC_Experiment_7691.csv,fat body mass (g),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+81,7691,Glucose infusion rate,?,Strain,M,MMPC_Experiment_7691.csv,glucose infusion rate,Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+82,7691,Glucose uptake,nmol/min/g,Strain,M,MMPC_Experiment_7691.csv,glucose uptake (nmol/min/g),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,10,10
+83,7691,Lean body mass,g,Strain,M,MMPC_Experiment_7691.csv,lean body mass (g),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+84,7691,Body mass,g,Strain,M,MMPC_Experiment_7691.csv,body mass (g),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+85,7691,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_7691.csv,glucose turnover whole body (mg/kg/min),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+86,7691,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_7691.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+87,7691,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_7691.csv,glycolysis whole body (mg/kg/min),Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,12,10
+88,7713,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_7713.csv,glucose basal (mg/dL),Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,12,12
+89,7713,Blood insulin,ng/dL,Strain,M,MMPC_Experiment_7713.csv,insulin blood (ng/dl),Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,11,11
+90,7713,Blood C-peptide,ng/mL,Strain,M,MMPC_Experiment_7713.csv,C-peptide (ng/ml),Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,12,9
+91,7713,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_7713.csv,glucose clamp average (mg/dL),Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,12,12
+92,7713,Glucose infusion rate,?,Strain,M,MMPC_Experiment_7713.csv,glucose infusion rate,Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,12,12
+93,7713,Body mass,g,Strain,M,MMPC_Experiment_7713.csv,body mass (g),Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,12,12
+94,7714,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_7714.csv,glucose basal (mg/dL),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+95,7714,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_7714.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+96,7714,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_7714.csv,glucose clamp average (mg/dL),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+97,7714,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_7714.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+98,7714,Energy expenditure,Kcal/hr/kg,Strain,M,MMPC_Experiment_7714.csv,energy expenditure (kcal/hr/kg),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+99,7714,Fat body mass,g,Strain,M,MMPC_Experiment_7714.csv,fat body mass (g),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+100,7714,Energy intake (24 hr),Kcal/day,Strain,M,MMPC_Experiment_7714.csv,energy intake (24 hr) (Kcal/day),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+101,7714,Glucose infusion rate,?,Strain,M,MMPC_Experiment_7714.csv,glucose infusion rate,Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+102,7714,Glucose uptake,nmol/min/g,Strain,M,MMPC_Experiment_7714.csv,glucose uptake (nmol/min/g),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,9,8
+103,7714,Lean body mass,g,Strain,M,MMPC_Experiment_7714.csv,lean body mass (g),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+104,7714,Total activity,?,Strain,M,MMPC_Experiment_7714.csv,total activity,Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+105,7714,body mass (g),g,Strain,M,MMPC_Experiment_7714.csv,body mass (g),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+106,7714,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_7714.csv,glucose turnover whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+107,7714,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_7714.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+108,7714,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_7714.csv,glycolysis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,10,10
+109,7714,Adiponectin,mg/dL,Strain,M,MMPC_Experiment_7725.csv,adiponectin (mg/dL),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,Mouse Diet=LabDiet 5P75/5P76,,10,10
+110,7714,Leptin,ng/dL,Strain,M,MMPC_Experiment_7725.csv,leptin (ng/dl),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,Mouse Diet=LabDiet 5P75/5P76,,10,8
+111,7714,MIP 2-alpha,pg/mL,Strain,M,MMPC_Experiment_7725.csv,Macrophage inflammatory protein 2-alpha (CXCL2) (pg/ml),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,Mouse Diet=LabDiet 5P75/5P76,,8,6
+112,7714,Resistin,ng/mL,Strain,M,MMPC_Experiment_7725.csv,Resistin (ng/ml),Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,Mouse Diet=LabDiet 5P75/5P76,,10,10
+113,7725 (B6),Adiponectin,mg/dL,Diet,M,MMPC_Experiment_7725.csv,adiponectin (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6,,10,10
+114,7725 (B6),Leptin,ng/dL,Diet,M,MMPC_Experiment_7725.csv,leptin (ng/dl),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6,,10,10
+115,7725 (B6),MIP 2-alpha,pg/mL,Diet,M,MMPC_Experiment_7725.csv,Macrophage inflammatory protein 2-alpha (CXCL2) (pg/ml),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6,,8,6
+116,7725 (B6),Resistin,ng/mL,Diet,M,MMPC_Experiment_7725.csv,Resistin (ng/ml),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6,,10,10
+117,7725 (Soat),Adiponectin,mg/dL,Diet,M,MMPC_Experiment_7725.csv,adiponectin (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129S4-Soat1<tm1Far>,,10,10
+118,7725 (Soat),Leptin,ng/dL,Diet,M,MMPC_Experiment_7725.csv,leptin (ng/dl),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129S4-Soat1<tm1Far>,,8,9
+119,7725 (Soat),MIP 2-alpha,pg/mL,Diet,M,MMPC_Experiment_7725.csv,Macrophage inflammatory protein 2-alpha (CXCL2) (pg/ml),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129S4-Soat1<tm1Far>,,6,7
+120,7725 (Soat),Resistin,ng/mL,Diet,M,MMPC_Experiment_7725.csv,Resistin (ng/ml),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129S4-Soat1<tm1Far>,,10,10
+121,7726,Energy expenditure,Kcal/hr/kg,Strain,M,MMPC_Experiment_7726.csv,energy expenditure (kcal/hr/kg),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+122,7726,Fat body mass,g,Strain,M,MMPC_Experiment_7726.csv,fat body mass (g),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+123,7726,Energy intake (24 hr),Kcal/day,Strain,M,MMPC_Experiment_7726.csv,energy intake (24 hr) (Kcal/day),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+124,7726,Lean body mass,g,Strain,M,MMPC_Experiment_7726.csv,lean body mass (g),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+125,7726,Total activity,?,Strain,M,MMPC_Experiment_7726.csv,total activity,Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+126,7726,Body mass,g,Strain,M,MMPC_Experiment_7726.csv,body mass (g),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+127,7726,Activity 24h (total vertical z-axis),#beam breaks/24hr,Strain,M,MMPC_Experiment_7726.csv,total activity,Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+128,7726,Energy intake (avg 24 hr),Kcal/day,Strain,M,MMPC_Experiment_7726.csv,energy intake (24 hr) (Kcal/day),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+129,7726,Respiratory exchange ratio,-,Strain,M,MMPC_Experiment_7726.csv,respiratory exchange ratio,Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+130,7726,VCO2 rate,ml/hr/kg,Strain,M,MMPC_Experiment_7726.csv,VCO2 rate (ml/hr/kg),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+131,7726,VO2 rate,ml/hr/kg,Strain,M,MMPC_Experiment_7726.csv,VO2 rate (ml/hr/kg),Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,12,12
+132,8003,Glucose infusion rate,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,glucose infusion rate (mg/kg/min),Strain=C57BL/6 | Experimental Group=Control,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex> | Experimental Group=Experiment,,54,9,10
+133,8003,Fat body mass,g,Strain,M,MMPC_Experiment_8003.csv,fat body mass (g),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+134,8003,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,glucose turnover whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+135,8003,Glucose uptake,nmol/min/g,Strain,M,MMPC_Experiment_8003.csv,glucose uptake (nmol/min/g),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,8,8
+136,8003,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_8003.csv,glucose basal (mg/dL),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+137,8003,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_8003.csv,glucose clamp average (mg/dL),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+138,8003,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,9,10
+139,8003,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,glycolysis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,9,10
+140,8003,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+141,8003,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_8003.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+142,8003,Lean body mass,g,Strain,M,MMPC_Experiment_8003.csv,lean body mass (g),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+143,8003,Body mass,g,Strain,M,MMPC_Experiment_8003.csv,body mass (g),Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,10,10
+144,8004,Glucose infusion rate,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,glucose infusion rate (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+145,8004,Fat body mass,g,Strain,M,MMPC_Experiment_8004.csv,fat body mass (g),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+146,8004,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,glucose turnover whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+147,8004,Glucose uptake,nmol/min/g,Strain,M,MMPC_Experiment_8004.csv,glucose uptake (nmol/min/g),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,11,15
+148,8004,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_8004.csv,glucose basal (mg/dL),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+149,8004,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_8004.csv,glucose clamp average (mg/dL),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+150,8004,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+151,8004,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,glycolysis whole body (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+152,8004,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+153,8004,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_8004.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+154,8004,Lean body mass,g,Strain,M,MMPC_Experiment_8004.csv,lean body mass (g),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+155,8004,Body mass,g,Strain,M,MMPC_Experiment_8004.csv,body mass (g),Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,12,19
+156,8029,Fat body mass,g,Strain,M,MMPC_Experiment_8029.csv,fat body mass (g),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+157,8029,Glucose infusion rates,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,glucose infusion rates (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+158,8029,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,glucose turnover whole body (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+159,8029,Glucose uptake brown fat,nmol/g/min,Strain,M,MMPC_Experiment_8029.csv,glucose uptake brown fat (nmole/g/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+160,8029,Glucose uptake muscle,nmol/g/min,Strain,M,MMPC_Experiment_8029.csv,glucose uptake muscle (nmole/g/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+161,8029,Glucose uptake white adipose,nmol/g/min,Strain,M,MMPC_Experiment_8029.csv,glucose uptake white adipose (nmole/g/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+162,8029,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_8029.csv,glucose basal (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+163,8029,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_8029.csv,glucose clamp average (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+164,8029,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,10,10
+165,8029,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,glycolysis whole body (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,10,10
+166,8029,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+167,8029,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_8029.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+168,8029,Insulin basal,ng/mL,Strain,M,MMPC_Experiment_8029.csv,insulin basal (ng/ml),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,10,10
+169,8029,Insulin clamp,ng/mL,Strain,M,MMPC_Experiment_8029.csv,insulin clamp (ng/ml),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+170,8029,Lean body mass,g,Strain,M,MMPC_Experiment_8029.csv,lean body mass (g),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+171,8029,Body mass,g,Strain,M,MMPC_Experiment_8029.csv,body mass (g),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,11,10
+172,8032,Fat body mass,g,Strain,M,MMPC_Experiment_8032.csv,fat body mass (g),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+173,8032,Glucose infusion rates,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,glucose infusion rates (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+174,8032,Glucose turnover whole body,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,glucose turnover whole body (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+175,8032,Glucose uptake muscle,nmol/g/min,Strain,M,MMPC_Experiment_8032.csv,glucose uptake muscle (nmole/g/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+176,8032,Glucose uptake white adipose,nmol/g/min,Strain,M,MMPC_Experiment_8032.csv,glucose uptake white adipose (nmole/g/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+177,8032,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_8032.csv,glucose basal (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+178,8032,Glucose clamp average,mg/dL,Strain,M,MMPC_Experiment_8032.csv,glucose clamp average (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+179,8032,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+180,8032,Glycolysis whole body,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,glycolysis whole body (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+181,8032,Hepatic glucose production basal,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,hepatic glucose production basal (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+182,8032,Hepatic glucose production clamp,mg/kg/min,Strain,M,MMPC_Experiment_8032.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+183,8032,Lean body mass,g,Strain,M,MMPC_Experiment_8032.csv,lean body mass (g),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+184,8032,Body mass,g,Strain,M,MMPC_Experiment_8032.csv,body mass (g),Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,12,11
+185,9157 (30Ëš),Energy expenditure,Kcal/hr/kg,Strain,M,MMPC_Experiment_9157.csv,energy expenditure (kcal/hr/kg),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+186,9157 (30Ëš),Energy expenditure basal,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure basal,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+187,9157 (30Ëš),Energy expenditure maximum,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure maximum,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+188,9157 (30Ëš),Respiratory exchange ratio,-,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+189,9157 (30Ëš),Respiratory exchange ratio maximum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio maximum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+190,9157 (30Ëš),Respiratory exchange ratio minimum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio minimum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=30,,19,17
+191,9157 (30Ëš),Body mass,g,Strain,M,MMPC_Experiment_9157.csv,body mass (g),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,,,57,51
+192,9157 (33Ëš),Energy expenditure,Kcal/hr/kg,Strain,M,MMPC_Experiment_9157.csv,energy expenditure (kcal/hr/kg),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+193,9157 (33Ëš),Energy expenditure basal,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure basal,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+194,9157 (33Ëš),Energy expenditure maximum,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure maximum,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+195,9157 (33Ëš),Respiratory exchange ratio,-,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+196,9157 (33Ëš),Respiratory exchange ratio maximum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio maximum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+197,9157 (33Ëš),Respiratory exchange ratio minimum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio minimum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=33,,19,17
+198,9157 (33Ëš),Body mass,g,Strain,M,MMPC_Experiment_9157.csv,body mass (g),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,,,57,51
+199,9157 (34Ëš),Energy expenditure,Kcal/hr/kg,Strain,M,MMPC_Experiment_9157.csv,energy expenditure (kcal/hr/kg),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+200,9157 (34Ëš),Energy expenditure basal,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure basal,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+201,9157 (34Ëš),Energy expenditure maximum,?,Strain,M,MMPC_Experiment_9157.csv,energy expenditure maximum,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+202,9157 (34Ëš),Respiratory exchange ratio,-,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+203,9157 (34Ëš),Respiratory exchange ratio maximum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio maximum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+204,9157 (34Ëš),Respiratory exchange ratio minimum,AU,Strain,M,MMPC_Experiment_9157.csv,respiratory exchange ratio minimum (AU),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (ŒÁC)=34,,17,15
+205,9157 (34Ëš),Body mass,g,Strain,M,MMPC_Experiment_9157.csv,body mass (g),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,,,57,51
+206,9215 (3 AU),Fat body mass,g,Drug,M,MMPC_Experiment_9215.csv,fat body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+207,9215 (3 AU),Glucose infusion rates,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose infusion rates (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+208,9215 (3 AU),Glucose turnover whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose turnover whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+209,9215 (3 AU),Glucose uptake brown fat,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake brown fat (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+210,9215 (3 AU),Glucose uptake muscle,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake muscle (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,12,13
+211,9215 (3 AU),Glucose uptake white adipose,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake white adipose (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+212,9215 (3 AU),Blood glucose,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose basal (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+213,9215 (3 AU),Glucose clamp average,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose clamp average (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+214,9215 (3 AU),Glycogen/lipid synthesis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycogen/lipid synthesis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,12
+215,9215 (3 AU),Glycolysis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycolysis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,12
+216,9215 (3 AU),Hepatic glucose production basal,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,hepatic glucose production basal (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,12
+217,9215 (3 AU),Hepatic glucose production clamp,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,Hepatic Glucose Production clamp (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+218,9215 (3 AU),Lean body mass,g,Drug,M,MMPC_Experiment_9215.csv,lean body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+219,9215 (3 AU),Body mass,g,Drug,M,MMPC_Experiment_9215.csv,body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=3,,,13,13
+220,9215 (10 AU),Fat body mass,g,Drug,M,MMPC_Experiment_9215.csv,fat body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+221,9215 (10 AU),Glucose infusion rates,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose infusion rates (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+222,9215 (10 AU),Glucose turnover whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose turnover whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+223,9215 (10 AU),Glucose uptake brown fat,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake brown fat (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+224,9215 (10 AU),Glucose uptake muscle,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake muscle (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,12,13
+225,9215 (10 AU),Glucose uptake white adipose,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake white adipose (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+226,9215 (10 AU),Blood glucose,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose basal (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+227,9215 (10 AU),Glucose clamp average,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose clamp average (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+228,9215 (10 AU),Glycogen/lipid synthesis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycogen/lipid synthesis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+229,9215 (10 AU),Glycolysis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycolysis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+230,9215 (10 AU),Hepatic glucose production basal,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,hepatic glucose production basal (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+231,9215 (10 AU),Hepatic glucose production clamp,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,Hepatic Glucose Production clamp (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+232,9215 (10 AU),Lean body mass,g,Drug,M,MMPC_Experiment_9215.csv,lean body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+233,9215 (10 AU),Body mass,g,Drug,M,MMPC_Experiment_9215.csv,body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=10,,,13,14
+234,9215 (30 AU),Fat body mass,g,Drug,M,MMPC_Experiment_9215.csv,fat body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+235,9215 (30 AU),Glucose infusion rates,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose infusion rates (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+236,9215 (30 AU),Glucose turnover whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose turnover whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+237,9215 (30 AU),Glucose uptake brown fat,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake brown fat (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+238,9215 (30 AU),Glucose uptake muscle,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake muscle (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,12,13
+239,9215 (30 AU),Glucose uptake white adipose,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake white adipose (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+240,9215 (30 AU),Blood glucose,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose basal (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+241,9215 (30 AU),Glucose clamp average,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose clamp average (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+242,9215 (30 AU),Glycogen/lipid synthesis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycogen/lipid synthesis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,11
+243,9215 (30 AU),Glycolysis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycolysis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,11
+244,9215 (30 AU),Hepatic glucose production basal,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,hepatic glucose production basal (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+245,9215 (30 AU),Hepatic glucose production clamp,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,Hepatic Glucose Production clamp (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+246,9215 (30 AU),Lean body mass,g,Drug,M,MMPC_Experiment_9215.csv,lean body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+247,9215 (30 AU),Body mass,g,Drug,M,MMPC_Experiment_9215.csv,body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=30,,,13,13
+248,9215 (60 AU),Fat body mass,g,Drug,M,MMPC_Experiment_9215.csv,fat body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+249,9215 (60 AU),Glucose infusion rates,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose infusion rates (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+250,9215 (60 AU),Glucose turnover whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glucose turnover whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+251,9215 (60 AU),Glucose uptake brown fat,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake brown fat (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+252,9215 (60 AU),Glucose uptake muscle,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake muscle (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,12,14
+253,9215 (60 AU),Glucose uptake white adipose,nmol/g/min,Drug,M,MMPC_Experiment_9215.csv,glucose uptake white adipose (nmole/g/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+254,9215 (60 AU),Blood glucose,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose basal (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+255,9215 (60 AU),Glucose clamp average,mg/dL,Drug,M,MMPC_Experiment_9215.csv,glucose clamp average (mg/dL),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+256,9215 (60 AU),Glycogen/lipid synthesis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycogen/lipid synthesis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+257,9215 (60 AU),Glycolysis whole body,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,glycolysis whole body (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+258,9215 (60 AU),Hepatic glucose production basal,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,hepatic glucose production basal (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+259,9215 (60 AU),Hepatic glucose production clamp,mg/kg/min,Drug,M,MMPC_Experiment_9215.csv,Hepatic Glucose Production clamp (mg/kg/min),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+260,9215 (60 AU),Lean body mass,g,Drug,M,MMPC_Experiment_9215.csv,lean body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+261,9215 (60 AU),Body mass,g,Drug,M,MMPC_Experiment_9215.csv,body mass (g),Drug Dose (AU)=0,Drug Dose (AU)=60,,,13,14
+262,10537,Fat body mass,g,Strain,F,MMPC_Experiment_10537.csv,fat body mass (g),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,8,11
+263,10537,Glucose infusion rates,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,glucose infusion rates (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+264,10537,Glucose turnover whole body,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,glucose turnover whole body (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+265,10537,Glucose uptake muscle,nmol/g/min,Strain,F,MMPC_Experiment_10537.csv,glucose uptake muscle (nmole/g/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,6,9
+266,10537,Glucose uptake white adipose,nmol/g/min,Strain,F,MMPC_Experiment_10537.csv,glucose uptake white adipose (nmole/g/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,6,9
+267,10537,Blood glucose,mg/dL,Strain,F,MMPC_Experiment_10537.csv,glucose basal (mg/dL),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+268,10537,Glucose clamp average,mg/dL,Strain,F,MMPC_Experiment_10537.csv,glucose clamp average (mg/dL),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+269,10537,Glycogen/lipid synthesis whole body,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,glycogen/lipid synthesis whole body (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+270,10537,Glycolysis whole body,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,glycolysis whole body (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+271,10537,Hepatic glucose production basal,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,hepatic glucose production basal (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+272,10537,Hepatic glucose production clamp,mg/kg/min,Strain,F,MMPC_Experiment_10537.csv,Hepatic Glucose Production clamp (mg/kg/min),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+273,10537,Lean body mass,g,Strain,F,MMPC_Experiment_10537.csv,lean body mass (g),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,8,11
+274,10537,Body mass,g,Strain,F,MMPC_Experiment_10537.csv,body mass (g),Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,10,13
+275,10542,Fat body mass,g,Drug,M,MMPC_Experiment_10542.csv,fat body mass (g),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+276,10542,Glucose infusion rates,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,glucose infusion rates (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+277,10542,Glucose turnover whole body,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,glucose turnover whole body (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+278,10542,Glucose uptake muscle,nmol/g/min,Drug,M,MMPC_Experiment_10542.csv,glucose uptake muscle (nmole/g/min),Experimental Group=Control,Experimental Group=Experiment,,,12,14
+279,10542,Glucose uptake white adipose,nmol/g/min,Drug,M,MMPC_Experiment_10542.csv,glucose uptake white adipose (nmole/g/min),Experimental Group=Control,Experimental Group=Experiment,,,12,14
+280,10542,Blood glucose,mg/dL,Drug,M,MMPC_Experiment_10542.csv,glucose basal (mg/dL),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+281,10542,Glucose clamp average,mg/dL,Drug,M,MMPC_Experiment_10542.csv,glucose clamp average (mg/dL),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+282,10542,Glycogen/lipid synthesis whole body,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,glycogen/lipid synthesis whole body (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+283,10542,Glycolysis whole body,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,glycolysis whole body (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+284,10542,Hepatic glucose production basal,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,hepatic glucose production basal (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+285,10542,Hepatic glucose production clamp,mg/kg/min,Drug,M,MMPC_Experiment_10542.csv,Hepatic Glucose Production clamp (mg/kg/min),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+286,10542,Insulin basal,ng/mL,Drug,M,MMPC_Experiment_10542.csv,insulin basal (ng/ml),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+287,10542,Insulin clamp,ng/mL,Drug,M,MMPC_Experiment_10542.csv,insulin clamp (ng/ml),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+288,10542,Lean body mass,g,Drug,M,MMPC_Experiment_10542.csv,lean body mass (g),Experimental Group=Control,Experimental Group=Experiment,,,12,15
+289,10539 (Gli2),Albumin,g/dL,Strain,M,MMPC_Experiment_10539.csv,albumin (g/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+290,10539 (Gli2),ALT,U/L,Strain,M,MMPC_Experiment_10539.csv,alanine transferase (U/L),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+291,10539 (Gli2),AST,U/L,Strain,M,MMPC_Experiment_10539.csv,aspartate aminotransferase (U/L),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+292,10539 (Gli2),Bilirubin,mg/dL,Strain,M,MMPC_Experiment_10539.csv,bilirubin blood (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,32,20
+293,10539 (Gli2),HDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,cholesterol HDL (COBAS) (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+294,10539 (Gli2),LDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,cholesterol LDL plasma (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,38
+295,10539 (Gli2),NEFA,Âµmol/L,Strain,M,MMPC_Experiment_10539.csv,non-esterified free fatty acids (åµmol/l),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+296,10539 (Gli2),Protein,g/dL,Strain,M,MMPC_Experiment_10539.csv,protein (g/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+297,10539 (Gli2),Total cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,total cholesterol (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+298,10539 (Gli2),Triglycerides,mg/dL,Strain,M,MMPC_Experiment_10539.csv,triglycerides (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,55,39
+299,10539 (Shh),Albumin,g/dL,Strain,M,MMPC_Experiment_10539.csv,albumin (g/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+300,10539 (Shh),ALT,U/L,Strain,M,MMPC_Experiment_10539.csv,alanine transferase (U/L),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+301,10539 (Shh),AST,U/L,Strain,M,MMPC_Experiment_10539.csv,aspartate aminotransferase (U/L),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+302,10539 (Shh),Bilirubin,mg/dL,Strain,M,MMPC_Experiment_10539.csv,bilirubin blood (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,32,27
+303,10539 (Shh),HDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,cholesterol HDL (COBAS) (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+304,10539 (Shh),LDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,cholesterol LDL plasma (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,44
+305,10539 (Shh),NEFA,Âµmol/L,Strain,M,MMPC_Experiment_10539.csv,non-esterified free fatty acids (åµmol/l),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+306,10539 (Shh),Protein,g/dL,Strain,M,MMPC_Experiment_10539.csv,protein (g/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+307,10539 (Shh),Total cholesterol,mg/dL,Strain,M,MMPC_Experiment_10539.csv,total cholesterol (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+308,10539 (Shh),Triglycerides,mg/dL,Strain,M,MMPC_Experiment_10539.csv,triglycerides (mg/dL),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,55,45
+309,10556,Albumin,g/dL,Strain,M,MMPC_Experiment_10556.csv,albumin (g/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+310,10556,ALT,U/L,Strain,M,MMPC_Experiment_10556.csv,alanine transferase (U/L),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+311,10556,AST,U/L,Strain,M,MMPC_Experiment_10556.csv,aspartate aminotransferase (U/L),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+312,10556,Blood urea nitrogen,mg/dL,Strain,M,MMPC_Experiment_10556.csv,urea nitrogen blood (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+313,10556,HDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10556.csv,cholesterol HDL (COBAS) (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+314,10556,LDL lipoproteins,?,Strain,M,MMPC_Experiment_10556.csv,lipoproteins LDL,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+315,10556,NEFA,Âµmol/L,Strain,M,MMPC_Experiment_10556.csv,non-esterified free fatty acids (åµmol/l),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+316,10556,Protein,g/dL,Strain,M,MMPC_Experiment_10556.csv,protein (g/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+317,10556,Serum creatinine,mg/dL,Strain,M,MMPC_Experiment_10556.csv,creatinine serum (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+318,10556,Total cholesterol,mg/dL,Strain,M,MMPC_Experiment_10556.csv,total cholesterol (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+319,10556,Triglycerides,mg/dL,Strain,M,MMPC_Experiment_10556.csv,triglycerides (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,11,14
+320,9113,Cholesterol,mg/dL,Strain,M,MMPC_Experiment_9113.csv,cholesterol (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+321,9113,Plasma insulin,pg/mL,Strain,M,MMPC_Experiment_9113.csv,insulin plasma (pg/ml),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+322,9113,NEFA,Âµmol/L,Strain,M,MMPC_Experiment_9113.csv,non-esterified free fatty acids (åµmol/l),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+323,9113,Phospholipid,mg/dL,Strain,M,MMPC_Experiment_9113.csv,phospholipid (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+324,9113,Blood glucose,mg/dL,Strain,M,MMPC_Experiment_9113.csv,glucose plasma (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+325,9113,Triglycerides,mg/dL,Strain,M,MMPC_Experiment_9113.csv,triglycerides (mg/dL),Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,11,20
+326,10534 (B6),HDL cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,cholesterol HDL (COBAS) (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6J <+/+>,,28,26
+327,10534 (B6),LDL cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,cholesterol LDL plasma (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6J <+/+>,,25,22
+328,10534 (B6),Total cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,total cholesterol (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6J <+/+>,,28,27
+329,10534 (Apoe),HDL cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,cholesterol HDL (COBAS) (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129P2-Apoe<tm1Unc>,,27,19
+330,10534 (Apoe),LDL cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,cholesterol LDL plasma (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129P2-Apoe<tm1Unc>,,27,19
+331,10534 (Apoe),Total cholesterol,mg/dL,Diet,M,MMPC_Experiment_10534.csv,total cholesterol (mg/dL),Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129P2-Apoe<tm1Unc>,,27,19
+332,10534 (LabDiet),HDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,cholesterol HDL (COBAS) (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=LabDiet 5P75/5P76,,28,27
+333,10534 (LabDiet),LDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,cholesterol LDL plasma (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=LabDiet 5P75/5P76,,25,27
+334,10534 (LabDiet),Total cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,total cholesterol (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=LabDiet 5P75/5P76,,28,27
+335,10534 (Teklad),HDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,cholesterol HDL (COBAS) (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=Teklad - 93075,,26,19
+336,10534 (Teklad),LDL cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,cholesterol LDL plasma (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=Teklad - 93075,,22,19
+337,10534 (Teklad),Total cholesterol,mg/dL,Strain,M,MMPC_Experiment_10534.csv,total cholesterol (mg/dL),Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=Teklad - 93075,,27,19
+338,11627,Liver cholesterol,mg/g tissue,Strain,F,MMPC_Experiment_11627.csv,cholesterol tissue (mg/g tissue),Strain=C57BL/6J,Strain=C57BL/6J-Klf15<tm1Jain>,,,22,24
+339,11627,Liver lipids,%,Strain,F,MMPC_Experiment_11627.csv,lipids tissue (%),Strain=C57BL/6J,Strain=C57BL/6J-Klf15<tm1Jain>,,,22,24
+340,11627,Liver triglycerides,mg/g tissue,Strain,F,MMPC_Experiment_11627.csv,triglycerides tissue (mg/g tissue),Strain=C57BL/6J,Strain=C57BL/6J-Klf15<tm1Jain>,,,22,24
+341,9151,Dietary fat absorption,%,Strain,M,MMPC_Experiment_9151.csv,fat absorbtion dietary (%),Strain=C57BL/6J,Strain=B6.129S4-Park2<tm1Shn>/J,,,10,10
+342,1202 (DBA),Blood glucose,mg/dL,Strain,M,MMPC_Experiment_1202.csv,glucose blood arterial,Strain=C57BL/6J,Strain=DBA/2J,,,13,11
+343,1202 (DBA),Blood insulin,mg/dL,Strain,M,MMPC_Experiment_1202.csv,insulin arterial (mg/dL),Strain=C57BL/6J,Strain=DBA/2J,,,13,10
+344,1202 (DBA),Glucose infusion rate,?,Strain,M,MMPC_Experiment_1202.csv,glucose infusion rate,Strain=C57BL/6J,Strain=DBA/2J,,,13,11
+345,1202 (FVB),Blood glucose,mg/dL,Strain,M,MMPC_Experiment_1202.csv,glucose blood arterial,Strain=C57BL/6J,Strain=FVB/NJ,,,13,10
+346,1202 (FVB),Blood insulin,mg/dL,Strain,M,MMPC_Experiment_1202.csv,insulin arterial (mg/dL),Strain=C57BL/6J,Strain=FVB/NJ,,,13,10
+347,1202 (FVB),Glucose infusion rate,?,Strain,M,MMPC_Experiment_1202.csv,glucose infusion rate,Strain=C57BL/6J,Strain=FVB/NJ,,,13,10
+348,9207,Insulin basal,ng/mL,Strain,M,MMPC_Experiment_9207.csv,insulin basal (ng/ml),Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,1,9,10
+349,9207,Insulin experimental,ng/mL,Strain,M,MMPC_Experiment_9207.csv,insulin experimental,Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,1,10,10
+350,1447,Fat body mass,g,Strain,M,MMPC_Experiment_1447.csv,fat body mass (g),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+351,1447,Body water free,g,Strain,M,MMPC_Experiment_1447.csv,body water free (g),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+352,1447,Heat (dark),Kcal/hr,Strain,M,MMPC_Experiment_1447.csv,heat (Dark Period) (Kcal/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+353,1447,Heat (light),Kcal/hr,Strain,M,MMPC_Experiment_1447.csv,heat (Light Period) (Kcal/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+354,1447,Lean body mass,g,Strain,M,MMPC_Experiment_1447.csv,lean body mass (g),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+355,1447,CO2 production (dark),CO2/kg/hr,Strain,M,MMPC_Experiment_1447.csv,carbon dioxide production Dark Period (CO2/kg/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+356,1447,CO2 production (light),CO2/kg/hr,Strain,M,MMPC_Experiment_1447.csv,carbon dioxide production Light Period (CO2/kg/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+357,1447,O2 consumption (dark),O2/kg/hr,Strain,M,MMPC_Experiment_1447.csv,oxygen consumption (Dark Period) (O2/kg/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+358,1447,O2 consumption (light),O2/kg/hr,Strain,M,MMPC_Experiment_1447.csv,oxygen consumption (Light Period) (O2/kg/hr),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+359,1447,Body mass,g,Strain,M,MMPC_Experiment_1447.csv,body mass (g),Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,12,15
+360,9149,Fat body mass,g,Drug,M,MMPC_Experiment_9149.csv,fat body mass (g),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+361,9149,Food intake,g/day,Drug,M,MMPC_Experiment_9149.csv,food intake (g/day),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+362,9149,Body water free,g,Drug,M,MMPC_Experiment_9149.csv,body water free (g),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+363,9149,Heat (dark),Kcal/hr,Drug,M,MMPC_Experiment_9149.csv,heat (Dark Period) (Kcal/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+364,9149,Heat (light),Kcal/hr,Drug,M,MMPC_Experiment_9149.csv,heat (Light Period) (Kcal/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+365,9149,Lean body mass,g,Drug,M,MMPC_Experiment_9149.csv,lean body mass (g),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+366,9149,CO2 production (dark),CO2/kg/hr,Drug,M,MMPC_Experiment_9149.csv,carbon dioxide production Dark Period (CO2/kg/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+367,9149,CO2 production (light),CO2/kg/hr,Drug,M,MMPC_Experiment_9149.csv,carbon dioxide production Light Period (CO2/kg/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+368,9149,O2 consumption (dark),O2/kg/hr,Drug,M,MMPC_Experiment_9149.csv,oxygen consumption (Dark Period) (O2/kg/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+369,9149,O2 consumption (light),O2/kg/hr,Drug,M,MMPC_Experiment_9149.csv,oxygen consumption (Light Period) (O2/kg/hr),Experimental Group=Control,Experimental Group=Experiment,,,12,12
+370,9149,Body mass,g,Drug,M,MMPC_Experiment_9149.csv,body mass (g),Experimental Group=Control,Experimental Group=Experiment,,,12,12

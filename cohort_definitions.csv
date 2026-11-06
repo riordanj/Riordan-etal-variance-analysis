@@ -1,0 +1,42 @@
+study_label,mmpc_experiment,source_file,comparison_type,sex,grouping_factors,cohort_A,cohort_B,held_fixed,animals_excluded,exclusion_reason,n_traits,exceptions
+1202 (DBA),1202,MMPC_Experiment_1202.csv,Strain,M,Strain,Strain=C57BL/6J,Strain=DBA/2J,,,,3,
+1202 (FVB),1202,MMPC_Experiment_1202.csv,Strain,M,Strain,Strain=C57BL/6J,Strain=FVB/NJ,,,,3,
+1447,1447,MMPC_Experiment_1447.csv,Strain,M,Strain,Strain=C57BL/6,Strain=C57BL/6J-Npc1l1<tm1Liq>,,,,10,
+1513,1513,MMPC_Experiment_1513.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6;129S4-Apoa4<tm1Bres>/J,,,,11,
+5645,5645,MMPC_Experiment_5645.csv,Strain,M,Strain,Strain=B6.129-Pik3cb<tm1Jjz>,Strain=B6.129S4-Myf5<tm3(cre)Sor> Pik3cb<tm1Jjz>,,,,29,
+7674,7674,MMPC_Experiment_7674.csv,Diet,M,Mouse Diet,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,,,,16,
+7691,7691,MMPC_Experiment_7691.csv,Strain,M,Strain,Strain=C57BLKS/J,Strain=BKS.Cg-Dock7<m> +/+ Lepr<db>/J,,,,12,
+7713,7713,MMPC_Experiment_7713.csv,Strain,M,Strain,Strain=C57BL/6,Strain=B6.129S1-Tlr3<tm1Flv>,,,,6,
+7714,7714,MMPC_Experiment_7714.csv; MMPC_Experiment_7725.csv,Strain,M,Strain,Strain=C57BL/6,Strain=B6.129S4-Soat1<tm1Far>,,,,19,"Adiponectin, Leptin, Resistin and MIP 2-alpha are recorded in MMPC_Experiment_7725.csv and compared within Mouse Diet=LabDiet 5P75/5P76; the remaining 15 traits come from MMPC_Experiment_7714.csv with no diet constraint."
+7725 (B6),7725,MMPC_Experiment_7725.csv,Diet,M,Mouse Diet,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6,,,4,
+7725 (Soat),7725,MMPC_Experiment_7725.csv,Diet,M,Mouse Diet,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129S4-Soat1<tm1Far>,,,4,
+7726,7726,MMPC_Experiment_7726.csv,Strain,M,Strain,Strain=C57BL/6,Strain=B6.129X1-Pgf<tm1Pec>,,,,11,
+8003,8003,MMPC_Experiment_8003.csv,Strain,M,Strain,Strain=C57BL/6,Strain=B6.Cg-Nrg4<Gt(OST98495)Lex>,,,,12,"Animal 54 is omitted from the control cohort for Glucose infusion rate only (recorded value 41,900 mg/kg/min against a cohort range of 4-52). The other 11 traits use the full cohorts."
+8004,8004,MMPC_Experiment_8004.csv,Strain,M,Strain,Strain=C57BL/6,Strain=B6.129S-Map2k4<tm1Ctr> Map2k7<tm1Rjd> Tg(Adipoq-cre)1Evdr,,,,12,
+8029,8029,MMPC_Experiment_8029.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=C57BL/6-Sirt4<tm1Fwa>,,,,16,Insulin basal is drawn from the same file with no deviation; listed here because its grouping was reconstructed separately.
+8032,8032,MMPC_Experiment_8032.csv,Strain,M,Strain,Strain=C57BL/6,Strain=C57BL/6-Tg(Fabp4-Sort1),,,,13,
+8104,8104,MMPC_Experiment_8104.csv,Diet,F,Sex; Mouse Diet,Sex=F; Mouse Diet=Dyets - 110098,Sex=F; Mouse Diet=LabDiet 5001,Strain=C3H/HeJ-Atp7b<tx-J>/J; Drug Administered=Vehicle,,,4,"Recorded in the combined 8103-8104 workbook; supplied here as MMPC_Experiment_8104.csv, an unmodified export of that worksheet."
+8104,8104,MMPC_Experiment_8104.csv,Diet,M,Sex; Mouse Diet,Sex=M; Mouse Diet=Dyets - 110098,Sex=M; Mouse Diet=LabDiet 5001,Strain=C3H/HeJ-Atp7b<tx-J>/J; Drug Administered=Vehicle,,,4,"Recorded in the combined 8103-8104 workbook; supplied here as MMPC_Experiment_8104.csv, an unmodified export of that worksheet."
+9113,9113,MMPC_Experiment_9113.csv,Strain,M,Strain,Strain=C57BL/6,Strain=C57BL/6-Pacs2<Gt(OST426086)Lex>,,,,6,
+9149,9149,MMPC_Experiment_9149.csv,Drug,M,Experimental Group,Experimental Group=Control,Experimental Group=Experiment,,,,11,
+9151,9151,MMPC_Experiment_9151.csv,Strain,M,Strain,Strain=C57BL/6J,Strain=B6.129S4-Park2<tm1Shn>/J,,,,1,
+9157 (30˚),9157,MMPC_Experiment_9157.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (°C)=30,,,7,
+9157 (33˚),9157,MMPC_Experiment_9157.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (°C)=33,,,7,
+9157 (34˚),9157,MMPC_Experiment_9157.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Ryr1<tm2.1Alle>,environmental temperature (°C)=34,,,7,
+9207,9207,MMPC_Experiment_9207.csv,Strain,M,Strain; Experimental Group,Strain=C57BL/6J <+/+>; Experimental Group=Control,Strain=C57BL/6-Sirt4<tm1Fwa>; Experimental Group=Experiment,,1,"Not recorded in the source data; the exclusion was identified by determining which animal's removal reproduces the published statistics. Animal 1 is atypical on several clamp-derived measures (basal glucose 146 vs a control median of 116; basal hepatic glucose production 17.8 vs 9.8) but is not obviously erroneous, and it is retained in study 8029, which analyses the same measurements.",2,"Study 8029 records these same two measurements under different names (insulin basal, insulin clamp); the values are identical animal by animal."
+9215 (10 AU),9215,MMPC_Experiment_9215.csv,Drug,M,Drug Dose (AU),Drug Dose (AU)=0,Drug Dose (AU)=10,,,,14,
+9215 (3 AU),9215,MMPC_Experiment_9215.csv,Drug,M,Drug Dose (AU),Drug Dose (AU)=0,Drug Dose (AU)=3,,,,14,
+9215 (30 AU),9215,MMPC_Experiment_9215.csv,Drug,M,Drug Dose (AU),Drug Dose (AU)=0,Drug Dose (AU)=30,,,,14,
+9215 (60 AU),9215,MMPC_Experiment_9215.csv,Drug,M,Drug Dose (AU),Drug Dose (AU)=0,Drug Dose (AU)=60,,,,14,
+10236,10236,MMPC_Experiment_10236.csv,Diet,M,mouse diet,mouse diet=Teklad - 7912,mouse diet=Research Diets - D12492,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,,,5,
+10236,10236,MMPC_Experiment_10236.csv,Strain,M,Strain,Strain=C57BL/6J,Strain=B6.129X1-H2-Ab1<tm1Koni> Tg(Adipoq-cre)1Evdr,mouse diet=Research Diets - D12492,,,5,
+10534 (Apoe),10534,MMPC_Experiment_10534.csv,Diet,M,Mouse Diet,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=B6.129P2-Apoe<tm1Unc>,,,3,
+10534 (B6),10534,MMPC_Experiment_10534.csv,Diet,M,Mouse Diet,Mouse Diet=LabDiet 5P75/5P76,Mouse Diet=Teklad - 93075,Strain=C57BL/6J <+/+>,,,3,
+10534 (LabDiet),10534,MMPC_Experiment_10534.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=LabDiet 5P75/5P76,,,3,
+10534 (Teklad),10534,MMPC_Experiment_10534.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.129P2-Apoe<tm1Unc>,Mouse Diet=Teklad - 93075,,,3,
+10537,10537,MMPC_Experiment_10537.csv,Strain,F,Strain,Strain=FVB/N,Strain=FVB/N-Tg(MMTV-PyVT)634Mul/J,,,,13,
+10539 (Gli2),10539,MMPC_Experiment_10539.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,,10,
+10539 (Shh),10539,MMPC_Experiment_10539.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=C57BL/6-Shh<tm1Chg/+>,,,,10,
+10542,10542,MMPC_Experiment_10542.csv,Drug,M,Experimental Group,Experimental Group=Control,Experimental Group=Experiment,,,,14,
+10556,10556,MMPC_Experiment_10556.csv,Strain,M,Strain,Strain=C57BL/6J <+/+>,Strain=B6.Cg-Gli2<tm1Mat/+>,,,,11,Protein was reconstructed separately; no deviation from the comparison rule.
+11627,11627,MMPC_Experiment_11627.csv,Strain,F,Strain,Strain=C57BL/6J,Strain=C57BL/6J-Klf15<tm1Jain>,,,,3,

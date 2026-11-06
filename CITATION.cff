@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+type: software
+title: "Mean and variance effects across MMPC two-cohort comparisons"
+abstract: >-
+  Analysis code and inputs reproducing the per-trait mean and variance
+  statistics reported in Riordan et al. from the released MMPC per-animal data.
+authors:
+  - family-names: Riordan
+    given-names: "Jesse D."
+    affiliation: "Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA, USA"
+    orcid: "https://orcid.org/0000-0001-6734-3954"
+version: 1.0.0
+date-released: "[YYYY-MM-DD of the GitHub release]"
+license: MIT
+repository-code: "https://github.com/[ORG-OR-USER]/[REPO]"
+doi: "10.5281/zenodo.[FILL IN AFTER ZENODO MINTS IT]"
+keywords:
+  - variance heterogeneity
+  - developmental plasticity
+  - phenotypic variation
+  - permutation test
+  - mouse metabolic phenotyping
+  - gene-environment interaction
+preferred-citation:
+  type: manuscript
+  title: "Variance heterogeneity is a pervasive, large-effect source of phenotypic variation in metabolic disease models"
+  notes: "Manuscript under review. Update type to 'article' and add journal, year and doi on acceptance."
+  authors:
+    - family-names: Riordan
+      given-names: "Jesse D."
+    - family-names: Ding
+      given-names: Mao
+    - family-names: Lary
+      given-names: Christine
+    - family-names: Pospisilik
+      given-names: "J. Andrew"
+    - family-names: Nadeau
+      given-names: "Joseph H."
