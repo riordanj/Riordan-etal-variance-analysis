@@ -10,11 +10,11 @@ authors:
     given-names: "Jesse D."
     affiliation: "Department of Anatomy and Cell Biology, Carver College of Medicine, University of Iowa, Iowa City, IA, USA"
     orcid: "https://orcid.org/0000-0001-6734-3954"
-version: 1.0.0
-date-released: "[YYYY-MM-DD of the GitHub release]"
+version: 1.0.1
+date-released: "[2026-11-06 of the GitHub release]"
 license: MIT
-repository-code: "https://github.com/[ORG-OR-USER]/[REPO]"
-doi: "10.5281/zenodo.[FILL IN AFTER ZENODO MINTS IT]"
+repository-code: "https://github.com/riordanj/Riordan-etal-variance-analysis"
+doi: "10.5281/zenodo.24016371"
 keywords:
   - variance heterogeneity
   - developmental plasticity
